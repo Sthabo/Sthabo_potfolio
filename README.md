@@ -1,2 +1,2 @@
-# Sthabo_potfolio
-Analytics Potfolio
+# Sthabo_portfolio
+Analytics Portfolio
